@@ -12,7 +12,7 @@ The goal of this project is to write a personal implementation of the GNU C libr
 ## Usage
 
 ```bash
-  git clone https://github.com/trobert42/get_next_line.git
+  git clone https://github.com/GSantoine/get_next_line.git
   cd get_next_line
 ```
 
