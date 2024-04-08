@@ -5,7 +5,7 @@ The goal of this project is to write a personal implementation of the GNU C libr
 
 |    Project Name    |                                                                       get_next_line                                                                 |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Description     |                                             My implementation of a function written in C that reads a lines from a file descriptor function         |
+|    Description     |                                             My implementation of a function written in C that reads a line from a file descriptor function          |
 |    Technologies    | <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a> |
 | Allowed utilities  |     malloc(), free(), read()                                                                                                                        |
 
